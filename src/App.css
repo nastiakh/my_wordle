@@ -36,7 +36,7 @@ nav h1 {
   flex-direction: column;
 }
 
-.table {
+.board {
   width: 450px;
   height: 550px;
   border: 1px solid black;
